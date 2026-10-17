@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/artikri845427-ctrl/hyper-scanner-releases/releases/download/v1.0.0/DocScanner_Setup_1.0.0.exe",
-  "sha256": "1b9d0bd3f26490f5e34f638c7959547cce7c404665793d00b173f818dd4db873",
-  "release_notes": "Version 1.0.0 of Document Scanner. See the release page for the full list of changes.",
+  "version": "1.0.1",
+  "download_url": "https://github.com/artikri845427-ctrl/hyper-scanner-releases/releases/download/v1.0.1/DocScanner_Setup_1.0.1.exe",
+  "sha256": "c6f5b7d5a8a6ed3a7c529378af98a557073dccffdd9edefd6901d82224e737d1",
+  "release_notes": "Version 1.0.1 of Document Scanner. See the release page for the full list of changes.",
   "mandatory": false
 }
